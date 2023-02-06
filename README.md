@@ -6,9 +6,5 @@
 </div>
 
                                                           a Data Scientist Consultant.
-                                                          My job consists of helping companies to analyze their data .
-                                                          I am skilled in most data-science steps: data pre-processing,
-                                                          application of statistical methods, data visualization,
-                                                          results in communication and Machine learning.
-                                    
+                                                          
                                     
