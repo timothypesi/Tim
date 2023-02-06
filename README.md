@@ -2,7 +2,7 @@
                                                             Hey there 👋, Am Tim
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="1000"/>
 </div>
 
                                                           a Data Scientist Consultant.
@@ -11,3 +11,5 @@
                                     I am skilled in most data-science steps: data pre-processing,    
                                     application of statistical methods, data visualization, 
                                     results in communication and Machine learning.
+                                    
+                                    
