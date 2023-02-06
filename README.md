@@ -2,7 +2,7 @@
 Hi 👋 My name is Timothy Pesi 
 ===============================
 
-Data Scientist and Data Viz Designer, UI/UX  & Data Engineer
+Data Scientist , Data Viz Designer & Data Engineer
 -----------------------------
 
 *   🌍  I'm based in Nairobi, Kenya
